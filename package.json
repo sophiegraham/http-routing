@@ -1,0 +1,26 @@
+{
+  "name": "http-routing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "lint": "eslint .",
+    "pretest": "npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sophiegraham/http-routing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sophiegraham/http-routing/issues"
+  },
+  "homepage": "https://github.com/sophiegraham/http-routing#readme",
+  "dependencies": {
+    "eslint": "^5.12.0",
+    "jest": "^23.6.0"
+  }
+}
